@@ -20,3 +20,6 @@ A collection of my learning and practice work in backend development: building R
 
 📚 Learning Status
 This repository is part of my internship training. I am actively updating it as I learn new topics and complete exercises and mini projects.
+
+Author
+~ Bhavi Sankhala
